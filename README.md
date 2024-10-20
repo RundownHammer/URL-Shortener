@@ -1,4 +1,4 @@
-# ![URL Shortener](https://url-shortener2024.netlify.app)
+# [URL Shortener](https://url-shortener2024.netlify.app)
 
 This is a simple URL shortener application built with React. It allows users to input a long URL and receive a shortened version using the TinyURL API. The project is hosted on Netlify and can be accessed [here](https://url-shortener2024.netlify.app).
 
